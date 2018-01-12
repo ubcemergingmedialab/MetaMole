@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Eyemole Scene.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaEyemole", "MetaEyemole.csproj", "{7C0A3A71-DFAD-EE6E-6311-D4C0CF014A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaEyemole.Editor", "MetaEyemole.Editor.csproj", "{9108F31B-DCE4-5295-17A8-5097093449AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C0A3A71-DFAD-EE6E-6311-D4C0CF014A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0A3A71-DFAD-EE6E-6311-D4C0CF014A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0A3A71-DFAD-EE6E-6311-D4C0CF014A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0A3A71-DFAD-EE6E-6311-D4C0CF014A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9108F31B-DCE4-5295-17A8-5097093449AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9108F31B-DCE4-5295-17A8-5097093449AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9108F31B-DCE4-5295-17A8-5097093449AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9108F31B-DCE4-5295-17A8-5097093449AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

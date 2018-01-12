@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMole", "MetaMole.csproj", "{440E9379-C00A-B0B8-DB56-A6234865891C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaMole.Editor", "MetaMole.Editor.csproj", "{B541D06A-1067-1564-4B64-8F888EE851CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440E9379-C00A-B0B8-DB56-A6234865891C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440E9379-C00A-B0B8-DB56-A6234865891C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440E9379-C00A-B0B8-DB56-A6234865891C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440E9379-C00A-B0B8-DB56-A6234865891C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B541D06A-1067-1564-4B64-8F888EE851CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B541D06A-1067-1564-4B64-8F888EE851CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B541D06A-1067-1564-4B64-8F888EE851CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B541D06A-1067-1564-4B64-8F888EE851CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
